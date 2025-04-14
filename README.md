@@ -5,7 +5,7 @@
 🎯 Let’s innovate, learn, and ship together!
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpate0568)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deep-patel-880338279)
 ## 💻 Tech Stack
 
 ## 💻 Tech Stack
@@ -69,7 +69,7 @@
 ---
 
 ✨ *Let’s build the future, one commit at a time.*  
-📬 Reach me on [LinkedIn](https://linkedin.com/in/dpate0568)
+📬 Reach me on [LinkedIn](www.linkedin.com/in/deep-patel-880338279)
 
 ---
 

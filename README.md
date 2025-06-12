@@ -54,13 +54,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n11283173&theme=radical&hide_border=false&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=n11283173&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n11283173&theme=radical&layout=compact&hide_border=false" />
-</p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

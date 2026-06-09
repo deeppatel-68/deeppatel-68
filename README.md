@@ -3,8 +3,6 @@ I'm a Computer Science + Finance graduate based in Brisbane, interested in softw
 
 I enjoy working across the full development process — from analysing data and designing models, to building dashboards, APIs, web apps, and clean user interfaces. My background in both technology and finance helps me approach projects with a mix of technical problem-solving, business thinking, and attention to user needs.
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deep-patel-880338279)
 
 ---
 
@@ -91,42 +89,11 @@ A command-line adventure game built in C# that demonstrates object-oriented desi
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)
 
 
----
-
-## Featured Projects
-
-### SVHN Digit Classification — Machine Learning / Computer Vision
-
-A computer vision project comparing a traditional SVM baseline with deep convolutional neural networks for real-world digit classification using the SVHN dataset.
-
-- **Kaggle Notebook:** [Kaggle link](https://www.kaggle.com/code/deeppatel68/svhn-digit-classification-svm-vs-deep-cnns)
-- **GitHub Repo:** https://github.com/deeppatel-68/svhn-digit-classification
-- **Tech:** Python, TensorFlow/Keras, Scikit-learn, NumPy, Pandas
-
-### Dayly — Productivity App
-
-A productivity-focused web app built with TypeScript and modern frontend tooling.
-
-- **GitHub Repo:** https://github.com/deeppatel-68/dayly-v1
-- **Tech:** TypeScript, React/Next.js, Tailwind CSS
-
-### AI Agent
-
-Python-based AI agent project exploring automation and agent-style workflows.
-
-- **GitHub Repo:** https://github.com/deeppatel-68/ai-agent
-- **Tech:** Python and Gemini API
-
-### CLI Path Finder Game — C# / Object-Oriented Programming
-
-A command-line adventure game built in C# that demonstrates object-oriented design, modular game logic, and pathfinding-style gameplay. The project uses classes, inheritance, encapsulation, and structured game flow to create an interactive terminal-based experience.
-
-- **GitHub Repo:** https://github.com/deeppatel-68/cli-path-finder-game
-- **Tech:** C#, .NET, Object-Oriented Programming
----
 
 Thanks for visiting my profile — feel free to check out my pinned projects.
-📬 Reach me on [LinkedIn](www.linkedin.com/in/deep-patel-880338279)
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deep-patel-880338279)
+
 
 
 

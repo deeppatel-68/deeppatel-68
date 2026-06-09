@@ -1,8 +1,7 @@
 # 💫 About Me:
-👋 Hey there! I’m **Deep**, a CS + Finance graduate who thrives at the intersection of tech and creativity.  
-💡 I turn cool ideas into code — from AI experiments to full-stack apps.  
-🚀 Currently exploring the world of machine learning, creative coding, and building smart, useful tools.  
-🎯 Let’s innovate, learn, and ship together!
+I'm a Computer Science + Finance graduate based in Brisbane, interested in software engineering, data analytics, machine learning, and building practical tools that solve real problems.
+
+I enjoy working across the full development process — from analysing data and designing models, to building dashboards, APIs, web apps, and clean user interfaces. My background in both technology and finance helps me approach projects with a mix of technical problem-solving, business thinking, and attention to user needs.
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deep-patel-880338279)
@@ -43,6 +42,8 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+
 
 ---
 
@@ -52,6 +53,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)
+
 
 
 ---

@@ -56,11 +56,36 @@ I enjoy working across the full development process — from analysing data and 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)
 
 
-
 ---
 
-✨ *Let’s build the future, one commit at a time.*  
+## Featured Projects
+
+### SVHN Digit Classification — Machine Learning / Computer Vision
+
+A computer vision project comparing a traditional SVM baseline with deep convolutional neural networks for real-world digit classification using the SVHN dataset.
+
+- **Kaggle Notebook:** [Kaggle link](https://www.kaggle.com/code/deeppatel68/svhn-digit-classification-svm-vs-deep-cnns)
+- **GitHub Repo:** https://github.com/deeppatel-68/svhn-digit-classification
+- **Tech:** Python, TensorFlow/Keras, Scikit-learn, NumPy, Pandas
+
+### Dayly — Productivity App
+
+A productivity-focused web app built with TypeScript and modern frontend tooling.
+
+- **GitHub Repo:** https://github.com/deeppatel-68/dayly-v1
+- **Tech:** TypeScript, React/Next.js, Tailwind CSS
+
+### AI Agent
+
+Python-based AI agent project exploring automation and agent-style workflows.
+
+- **GitHub Repo:** https://github.com/deeppatel-68/ai-agent
+- **Tech:** Python and Gemini API
+---
+
+Thanks for visiting my profile — feel free to check out my pinned projects.
 📬 Reach me on [LinkedIn](www.linkedin.com/in/deep-patel-880338279)
+
 
 ---
 

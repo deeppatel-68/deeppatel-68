@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m **Deep**, a final-year CS + Finance student who thrives at the intersection of tech and creativity.  
+👋 Hey there! I’m **Deep**, a final-year CS + Finance graduate who thrives at the intersection of tech and creativity.  
 💡 I turn cool ideas into code — from AI experiments to full-stack apps.  
 🚀 Currently exploring the world of machine learning, creative coding, and building smart, useful tools.  
 🎯 Let’s innovate, learn, and ship together!

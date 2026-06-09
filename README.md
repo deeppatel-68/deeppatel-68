@@ -81,6 +81,13 @@ Python-based AI agent project exploring automation and agent-style workflows.
 
 - **GitHub Repo:** https://github.com/deeppatel-68/ai-agent
 - **Tech:** Python and Gemini API
+
+### CLI Path Finder Game — C# / Object-Oriented Programming
+
+A command-line adventure game built in C# that demonstrates object-oriented design, modular game logic, and pathfinding-style gameplay. The project uses classes, inheritance, encapsulation, and structured game flow to create an interactive terminal-based experience.
+
+- **GitHub Repo:** https://github.com/deeppatel-68/cli-path-finder-game
+- **Tech:** C#, .NET, Object-Oriented Programming
 ---
 
 Thanks for visiting my profile — feel free to check out my pinned projects.
